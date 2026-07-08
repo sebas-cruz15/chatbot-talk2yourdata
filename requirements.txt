@@ -1,2 +1,4 @@
 streamlit
-openai
+databricks-sdk
+pandas
+plotly
